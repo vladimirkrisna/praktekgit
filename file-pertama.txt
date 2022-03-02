@@ -6,4 +6,5 @@ kita disini sudah belajar
 
 kita juga mulai mempelajari github
 -pengenalan
--membuat akun
+
+-kapan membuat UI / UXnya ?
